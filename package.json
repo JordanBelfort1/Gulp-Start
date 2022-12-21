@@ -43,6 +43,8 @@
     "webpack-stream": "^7.0.0"
   },
   "dependencies": {
-    "gulp-cli": "^2.3.0"
+    "gulp-cli": "^2.3.0",
+    "uuid": "^7.0.3"
   }
 }
+
