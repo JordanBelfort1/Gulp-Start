@@ -1,4 +1,3 @@
-import webp from "gulp-webp";
 import imagemin from "gulp-imagemin";
 
 const images = () => {
